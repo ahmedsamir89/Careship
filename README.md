@@ -1,5 +1,5 @@
 # Careship
-https://travis-ci.org/ahmedsamir89/Careship.svg?branch=master
+[![Build Status](https://travis-ci.org/ahmedsamir89/Careship.svg?branch=master)](https://travis-ci.org/ahmedsamir89/Careship)
 
 # installation:
   - Clone this repo
